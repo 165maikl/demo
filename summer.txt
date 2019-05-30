@@ -9,4 +9,4 @@ What are you doing?
 
 Doesn't matter
 
-only for tags
+only for tags and fetch
